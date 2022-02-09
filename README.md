@@ -1,9 +1,8 @@
 # Hello world, my name is Francesco
 
 ..but you can call me Frank 👋.
-I'm a [creative & fullstack developer](https://orsi.me) based in London.
 
-I love modern web development, and stuff with Adobe Suite, [React](https://github.com/facebook/react), [React Native](https://reactnative.dev/), [Node.js](https://nodejs.org/en/), [Cordova](https://cordova.apache.org/) and [Wordpress](https://wordpress.org/plugins/).
+I'm a [creative & fullstack developer](https://orsi.me) based in London. I love modern web development, and stuff with Adobe Suite, [React](https://github.com/facebook/react), [React Native](https://reactnative.dev/), [Node.js](https://nodejs.org/en/), [Cordova](https://cordova.apache.org/) and [Wordpress](https://wordpress.org/plugins/).
 
 ---
 
