@@ -8,10 +8,6 @@ I'm a [creative & fullstack developer](https://orsi.me) based in London. I love 
 
 **[https://orsi.me](https://orsi.me)**
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orsifrancesco&theme=nord)
-
 <!--
 **orsifrancesco/orsifrancesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
